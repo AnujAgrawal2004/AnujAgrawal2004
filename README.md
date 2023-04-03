@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuj Agrawal</h1>
 <h3 align="center">A passionate web  developer India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek0020&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek0020" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnujAgrawal2004&label=Profile%20views&color=0e75b6&style=flat" alt="AnujAgrawal2004" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnujAgrawal2004" alt="AnujAgrawal2004" /></a> </p>
 
