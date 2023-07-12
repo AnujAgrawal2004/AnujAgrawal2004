@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning *React and Node js*
 
-- 💬 Ask me about *JAVA, DSA, Web*
+- 💬 Ask me about *JAVA, DSA, Web Development*
 
 - 📫 How to reach me **anujagrawal601@gmail.com <p>img src="https://www.instagram.com/anujagrawal_99/"</p>
 - <a href="https://www.linkedin.com/in/anuj-agrawal-a911641b9/">visit linkedIn</a>**
